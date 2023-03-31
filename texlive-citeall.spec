@@ -1,6 +1,6 @@
 Name:		texlive-citeall
 Version:	45975
-Release:	1
+Release:	2
 Summary:	Cite all entries of a bbl created with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citeall
