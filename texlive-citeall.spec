@@ -3,7 +3,7 @@ Version:	45975
 Release:	2
 Summary:	Cite all entries of a bbl created with BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citeall
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/citeall
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citeall.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citeall.doc.r%{version}.tar.xz
